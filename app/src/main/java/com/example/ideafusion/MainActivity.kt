@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
             IdeaFusionTheme {
                 NavGraph()
                 //Change 1
+                //Change 2
 
             }
         }
